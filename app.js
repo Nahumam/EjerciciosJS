@@ -262,6 +262,12 @@
 // }
 // mayorPromedio();
 
+// 18)Se realiza la carga de 10 valores enteros por teclado. Se desea conocer:
+// a)	La cantidad de valores negativos ingresados.
+// b)	La cantidad de valores positivos ingresados.
+// c)	La cantidad de múltiplos de 15.
+// d)	El valor acumulado de los números ingresados que son pares.
+
 
 
 //23)Definí una función gano que reciba como argumento un array tragamonedas con 5 símbolos y nos indique si son iguales. Si el array tiene más de 5 símbolos, sólo debe comparar los 5 primeros.
